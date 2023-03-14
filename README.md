@@ -3,7 +3,7 @@
 ### Computer Engineering Student :woman_technologist:
 
 * 🌱 I’m currently learning C#, Java
-* 📫 How to reach me: [bernaakdgnlr@hotmail.com] 
+* 📫 How to reach me: bernaakdgnlr@hotmail.com
 
 #### Languages and Tools
 
