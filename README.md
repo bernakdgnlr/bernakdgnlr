@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi 👋, I'm Berna
+
+### Computer Engineering Student :woman_technologist:
+
+* 🌱 I’m currently learning C#, Java
+* 📫 How to reach me: [bernaakdgnlr@hotmail.com] 
+
+#### Languages and Tools
+
 
 <!--
 **bernakdgnlr/bernakdgnlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
